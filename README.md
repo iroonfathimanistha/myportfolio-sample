@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nisha
 
 ## 🎓 About Me
-- Second-year Computer Science student at sabaragamuwa University.
+- Second-year Computer Science student at Sabaragamuwa University.
 - Passionate about coding, problem-solving, and software development.
 - Currently learning Git, GitHub, and full-stack development.
 
